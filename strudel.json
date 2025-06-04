@@ -1,9 +1,11 @@
 {
   "_base": "https://raw.githubusercontent.com/itsameshaw/strudle_sounds/main/",
-  "tinitus:0": "tinitus/001_crazy.wav",
-  "tinitus:1": "tinitus/002_girl.wav",
-  "tinitus:2": "tinitus/003_t_in_tinitus.wav",
-  "tinitus:3": "tinitus/004_tinitus.wav",
-  "tinitus:4": "tinitus/005_tornight_is_crazy.wav",
-  "tinitus:5": "tinitus/006_nitus_in_tinitus.wav"
+  "tinitus": [
+    "tinitus/001_crazy.wav", 
+    "tinitus/002_girl.wav", 
+    "tinitus/003_t_in_tinitus.wav", 
+    "tinitus/004_tinitus.wav", 
+    "tinitus/005_tornight_is_crazy.wav",
+    "tinitus/006_nitus_in_tinitus.wav"
+  ]
 }
